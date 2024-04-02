@@ -19,7 +19,7 @@ export default function Header() {
         //             </div>
         //             <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
         //                 <div className="flex flex-shrink-0 items-center">
-        //                     <img className="h-8 w-auto" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500" width={100} height={100} alt="Your Company" />
+        //                     <img className="h-8 w-auto" src="/aricah_logo.jpeg" width={100} height={100} alt="Your Company" />
         //                 </div>
         //                 <div className="hidden sm:ml-6 sm:block">
         //                     <div className="flex space-x-4">
@@ -76,7 +76,7 @@ export default function Header() {
                 <div className="flex lg:flex-1">
                     <a href="#" className="-m-1.5 p-1.5">
                         <span className="sr-only">Your Company</span>
-                        <img className="h-8 w-auto" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600" alt="" />
+                        <img className="h-8 w-auto" src="/aricah_logo.jpeg" alt="" />
                     </a>
                 </div>
                 <div className="flex lg:hidden">
@@ -110,7 +110,7 @@ export default function Header() {
                     <div className="flex items-center justify-between">
                         <a href="#" className="-m-1.5 p-1.5">
                             <span className="sr-only">Your Company</span>
-                            <img className="h-8 w-auto" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600" alt="" />
+                            <img className="h-8 w-auto" src="/aricah_logo.jpeg" alt="" />
                         </a>
                         <button type="button" className="-m-2.5 rounded-md p-2.5 text-gray-700">
                             <span className="sr-only">Close menu</span>
